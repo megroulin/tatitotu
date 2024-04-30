@@ -93,7 +93,14 @@ h3 {
   padding: 4px 11px;
 }
 
-/* Style pour l'élément input */
+button:hover {
+  background-color: #cccccc8f; /* Couleur grise pour le survol */
+}
+
+.center {
+  text-align: center;
+}
+
 #verbe {
   display: inline-block;
   justify-content: center;
